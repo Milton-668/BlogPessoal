@@ -1,9 +1,9 @@
-package org.generation.blogPessoal.Controller;
+package org.generation.blogPessoal.controller;
 
 import java.util.List;
 
-import org.generation.blogPessoal.Model.Tema;
-import org.generation.blogPessoal.Repository.TemaRepository;
+import org.generation.blogPessoal.model.Tema;
+import org.generation.blogPessoal.repository.TemaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
